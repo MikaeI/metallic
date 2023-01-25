@@ -1,0 +1,23 @@
+{
+  "name": "metallic",
+  "version": "0.1.0",
+  "description": "Metallic finish for the web",
+  "main": "metallic.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikaeI/metallic.git"
+  },
+  "keywords": [],
+  "author": "MikaeI",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/MikaeI/metallic/issues"
+  },
+  "homepage": "https://github.com/MikaeI/metallic#readme"
+}
